@@ -1,0 +1,13 @@
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\DC_Point\DC_Point\bin\Debug\DC_Point.exe.manifest
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\DC_Point\DC_Point\bin\Debug\DC_Point.application
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\DC_Point\DC_Point\bin\Debug\DC_Point.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\DC_Point\DC_Point\bin\Debug\DC_Point.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\DC_Point\DC_Point\obj\x86\Debug\DC_Point.Form1.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\DC_Point\DC_Point\obj\x86\Debug\DC_Point.Properties.Resources.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\DC_Point\DC_Point\obj\x86\Debug\DC_Point.csproj.GenerateResource.Cache
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\DC_Point\DC_Point\obj\x86\Debug\DC_Point.exe.manifest
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\DC_Point\DC_Point\obj\x86\Debug\DC_Point.application
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\DC_Point\DC_Point\obj\x86\Debug\DC_Point.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\DC_Point\DC_Point\obj\x86\Debug\DC_Point.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\DC_Point\DC_Point\obj\x86\Debug\DC_Point.csprojResolveAssemblyReference.cache
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\DC_Point\DC_Point\obj\x86\Debug\DC_Point.csproj.CoreCompileInputs.cache
